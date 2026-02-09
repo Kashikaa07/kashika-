@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>For My Valentine ❤️</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <div class="container">
+    <h1>Hey My Love 💘</h1>
+    <p class="message">
+      From the moment you came into my life,<br>
+      everything felt warmer, safer, and happier.<br>
+      You are my favorite person, always. ❤️
+    </p>
+
+    <button onclick="showLove()">Click me 👀</button>
+
+    <p id="hiddenText">Will you be my Valentine? 💌🌹</p>
+  </div>
+
+  <div class="hearts"></div>
+
+  <script src="script.js"></script>
+</body>
+</html>
